@@ -1,2 +1,4 @@
 isi file 3
 menambahkan isi file3 menggunakan cabang3
+isi file 3 
+ini dari cabang1 menambahkan isi file3
