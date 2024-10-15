@@ -566,6 +566,10 @@ video {
   margin-top: 2rem;
 }
 
+.mt-4 {
+  margin-top: 1rem;
+}
+
 .flex {
   display: flex;
 }
@@ -751,6 +755,11 @@ video {
 .text-merahAksen {
   --tw-text-opacity: 1;
   color: rgb(255 75 92 / var(--tw-text-opacity));
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .line-through {

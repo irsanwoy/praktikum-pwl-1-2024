@@ -9,13 +9,13 @@ modeToggle.onclick = () => {
    document.body.classList.toggle('text-white');
    document.body.classList.toggle('text-teksGelap');
 
-   // Ubah warna panel dan elemen input sesuai mode
+   // mengubah warna panel dan elemen input sesuai mode
    document.querySelectorAll('#input, #assignment').forEach(el => {
       el.classList.toggle('bg-panelGelap');
       el.classList.toggle('bg-panelTerang');
    });
 
-   // Ubah teks tombol toggle
+   // mengubah teks tombol toggle
    if (document.body.classList.contains('bg-latarTerang')) {
       modeToggle.textContent = "Switch to Dark Mode";
    } else {
