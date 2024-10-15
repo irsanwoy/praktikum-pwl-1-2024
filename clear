@@ -1,0 +1,79 @@
+[33mcommit 1d747323ee94ed032224f823cd725a3585b8b640[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Tue Oct 15 22:39:08 2024 +0700
+
+    setup color palete
+
+[33mcommit d39d2324d7b69fab56520a782ccef2bb318a76a0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Tue Oct 15 22:13:22 2024 +0700
+
+    setup awal aslab sebelum dimodif
+
+[33mcommit c9d17bef9779002dacba10bc3d1d7d7c0f392272[m
+Merge: 74bb97c 8390549
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 02:02:12 2024 +0700
+
+    Merge branch 'cabang1'
+
+[33mcommit 839054988ea37837c7013be0ffdb6e56e8fa6819[m[33m ([m[1;32mcabang1[m[33m)[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:59:17 2024 +0700
+
+    menambahkan isi file3 menggunakna cabang1
+
+[33mcommit 74bb97c6c788e1fd4511c18346ea30fde23503ca[m
+Merge: 0df2b88 ca7986d
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:57:21 2024 +0700
+
+    Merge branch 'cabang2'
+
+[33mcommit ca7986d321bca1aedc796834b673f552916e6281[m[33m ([m[1;32mcabang2[m[33m)[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:56:31 2024 +0700
+
+     menambahkan isi dari file1 menggunakan cabang2
+
+[33mcommit 0df2b8899671b1062f1349aabc4ceae0fa19fc35[m[33m ([m[1;32mcabang3[m[33m)[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:39:05 2024 +0700
+
+    menambahkan cabang3 dan menambah isi file2 menggunakan cabang3
+
+[33mcommit 23dd9a69eed1710aa7fbd53c4b6e407685d7d100[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:37:58 2024 +0700
+
+    menambahkan cabang2 dan menambah isi file2 menggunakan cabang2
+
+[33mcommit 7f3483ea2b42094a07ea3381ec94d9ae1fd6e241[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:35:47 2024 +0700
+
+    menambahkan cabang1 dan menambahkan isi ke file1 menggunakan cabang1
+
+[33mcommit 78306cfb325f6a4ed7919c7f3dac77f96a193179[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:32:24 2024 +0700
+
+    membuat file 3
+
+[33mcommit 5f80fc7206e44a1f8c27c53f6b0dcde53c0a8c7a[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:31:53 2024 +0700
+
+    membuat file 2
+
+[33mcommit 49ff9168d1ae783e76c090ab6056e749958b2612[m
+Author: irsanwoy <irsanwoy54@gmail.com>
+Date:   Mon Oct 7 01:31:03 2024 +0700
+
+    membuat folder pertemuan 1,  membuat file1 dan mengisi file1
+
+[33mcommit 887932dbae114eb28c10ade329adffbef9bb97b5[m
+Author: IRSAN <105915685+irsanwoy@users.noreply.github.com>
+Date:   Mon Oct 7 01:24:21 2024 +0700
+
+    Initial commit
